@@ -104,35 +104,3 @@ Create a `.env.local` file in the root directory and add the following:
 NEXT_PUBLIC_STRIPE_PUBLIC_KEY=your-stripe-public-key
 DATABASE_URL=your-postgresql-database-url
 ```
-
-### Steps
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/shubham001official/grofers.git
-   ```
-
-2. **Install dependencies**:
-   ```sh
-   cd grofers
-   npm install
-   ```
-
-3. **Run the development server**:
-   ```sh
-   npm run dev
-   ```
-
-4. **Open your browser and visit**:
-   [http://localhost:3000](http://localhost:3000)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-1. Follow consistent code style and adhere to linting rules.
-2. Provide detailed descriptions for any new features or bug fixes.
-
-## 📧 Contact
-
-For support or feedback, reach out via email: [shubham001official@email.com](mailto:shubham001official@email.com)
